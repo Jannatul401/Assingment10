@@ -1,0 +1,99 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: #000;
+}
+.first-div{
+    width: 1074px;
+    background: #fff;
+    margin: auto;
+}
+.main-viv{
+    width: 800px;
+    margin: auto;
+}
+.main-menu{
+    text-align: center;
+    background: #34495e;
+    padding-top: 15px;
+    padding-bottom: 60px;
+}
+.main-menu li{
+    display: inline-block;
+    margin-left: -5px;
+}
+.main-menu li a{
+    padding: 10px;
+    background: #e67e22;
+    color: #344e42;
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 20px;
+}
+.slider{
+    background-image: url(https://i.ibb.co/X201ypG/stylish-hexagonal-line-pattern-background-1017-19742.jpg);
+    text-align: center;
+    padding: 50px 0;
+}
+a{
+    background: red;
+    color: #fff;
+    padding: 10px;
+    font-size: ;
+    text-decoration: none;
+    margin-top: 30px;
+  
+}
+
+.contener{
+    background: #d35400;
+    text-align: center;
+    display: inline-block;
+    list-style: none;
+    padding: 50px;
+
+}
+.contener p{
+    color: #fff;
+    font-size: 14px;
+}
+
+.contener ul li{
+    display: inline-block;
+    list-style: none;
+    margin-top: 20px;
+    margin-left: 15px;
+    font-size: 15px;
+}
+
+.footer{
+    background: #34495e;
+   text-align: center;
+   padding-bottom: 20px;
+}
+.last-menu{
+    text-align: center;
+    background: #34495e;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.last-menu li{
+    display: inline-block;
+    margin-left: -5px;
+}
+.last-menu li a{
+    padding: 10px;
+    background: #e67e22;
+    color: #344e42;
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 20px;
+}
+.footer p{
+    color: #fff;
+}
+
+
+
